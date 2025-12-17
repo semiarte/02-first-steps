@@ -52,7 +52,7 @@ describe('FirstStepsApp', () => {
             quantity: 2,
         });
         expect(mockItemCounter).toHaveBeenCalledWith({
-            name: 'Super Smash',
+            name: 'Smash Bros',
             quantity: 5,
         });
     });
